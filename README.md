@@ -1,16 +1,16 @@
 MySQL database schema versioning! Open source tool.
 
-== Introduction ==
+Introduction
+============
 
 This is a tool, which help us on day to day development in our office. 
 Hopefully this will be useful for you as well.
 
 
-== How to ==
+How to
+=======
 
-coming soon..
-
-
+<pre><code>coming soon..</code></pre>
 
 
 
