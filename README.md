@@ -2,8 +2,10 @@ MySQL DB versioning in PHP Application
 ========
 
 This is a tool, which help us on day to day development in our office. 
+
 Hopefully this will be useful for you as well.
 
+Newest Zend Framework version (1.11.11) was used as the example application, but lower versions should work as well.
 
 
 [Integration into PHP application](https://github.com/travelplanet24/mysql-versioning-in-zf-1.x/wiki/Integration)
