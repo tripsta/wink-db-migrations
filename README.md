@@ -6,17 +6,14 @@ You could edit fragments of SQL by hand, but you would then be responsible for t
 that they need to go and run them. You’d also have to keep track of which changes need to be run against 
 the production machines next time you deploy. [by rubyonrails.org](http://guides.rubyonrails.org/migrations.html)
 
-MySQL database migration in PHP Application
-========
-
-This is a tool, which we, PHP developers, use to migrate MySQL databases. 
-The idea was borrowed from the migration system built into Ruby on Rails. 
-Any one who is familiar with Migrations in Rails will be immediately at home.
-
-Newest Zend Framework version (1.11.11) is used as the example application, but lower versions should work as well.
 
 Getting started & Documentation
 ===========
+
+This is a tool, which we, PHP developers, use to migrate MySQL databases. 
+The idea was borrowed from the migration system built into Ruby on Rails. 
+
+Newest Zend Framework version (1.11.11) is used as the example application, but lower versions should work as well.
 
 See the [Wiki](https://github.com/travelplanet24/mysql-versioning-for-zend-framework/wiki/Integration) 
 for the complete documentation!
