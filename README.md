@@ -1,17 +1,14 @@
-MySQL database schema versioning! Open source tool.
-
-Introduction
-============
+MySQL DB versioning in PHP Application
+========
 
 This is a tool, which help us on day to day development in our office. 
 Hopefully this will be useful for you as well.
 
 
-How to
-=======
 
-<pre><code>coming soon..</code></pre>
+[Integration into PHP application](https://github.com/travelplanet24/mysql-versioning-in-zf-1.x/wiki/Integration)
 
+Updates and improvements are more than welcome!
 
 
 Copyright (C) 2012 travelplanet24 S.A.
