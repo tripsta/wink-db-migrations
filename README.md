@@ -15,7 +15,7 @@ The idea was borrowed from the migration system built into Ruby on Rails.
 
 Newest Zend Framework version (1.11.11) is used as the example application, but lower versions should work as well.
 
-See the [Wiki](https://github.com/travelplanet24/mysql-versioning-for-zend-framework/wiki/Integration) 
+See the [Wiki](https://github.com/travelplanet24/wink-db-migrations/wiki) 
 for the complete documentation!
 
 Commands
