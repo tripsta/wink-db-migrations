@@ -1,11 +1,18 @@
-MySQL DB versioning in PHP Application
+
+Migrations
+==========
+
+Migrations are a convenient way for you to alter your database in a structured and organized manner. 
+You could edit fragments of SQL by hand, but you would then be responsible for telling other developers 
+that they need to go and run them. You’d also have to keep track of which changes need to be run against 
+the production machines next time you deploy. [by rubyonrails.org](http://guides.rubyonrails.org/migrations.html)
+
+MySQL database migration in PHP Application
 ========
 
-This is a tool, which help us on day to day development in our office. 
+This is a tool (similar to Ruby on Rails migrations), which we, PHP developers, use to migrate MySQL databases.
 
-Hopefully this will be useful for you as well.
-
-Newest Zend Framework version (1.11.11) was used as the example application, but lower versions should work as well.
+Newest Zend Framework version (1.11.11) is used as the example application, but lower versions should work as well.
 
 
 [Read on how to integrate it into PHP application](https://github.com/travelplanet24/mysql-versioning-for-zend-framework/wiki/Integration)
@@ -15,7 +22,7 @@ Updates and improvements are more than welcome!
 Commands
 ========
 
-Below you can find all the commands, which are available by the tool.
+Below you can find all the commands, which are available.
 
 ### Generate migration
 <pre><code>$ php scripts/db/generate_migration.php -t "create table countries"
