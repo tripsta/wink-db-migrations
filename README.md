@@ -1,4 +1,3 @@
-
 Migrations
 ==========
 
@@ -10,14 +9,17 @@ the production machines next time you deploy. [by rubyonrails.org](http://guides
 MySQL database migration in PHP Application
 ========
 
-This is a tool (similar to Ruby on Rails migrations), which we, PHP developers, use to migrate MySQL databases.
+This is a tool, which we, PHP developers, use to migrate MySQL databases. 
+The idea was borrowed from the migration system built into Ruby on Rails. 
+Any one who is familiar with Migrations in Rails will be immediately at home.
 
 Newest Zend Framework version (1.11.11) is used as the example application, but lower versions should work as well.
 
+Getting started & Documentation
+===========
 
-[Read on how to integrate it into PHP application](https://github.com/travelplanet24/mysql-versioning-for-zend-framework/wiki/Integration)
-
-Updates and improvements are more than welcome!
+See the [Wiki](https://github.com/travelplanet24/mysql-versioning-for-zend-framework/wiki/Integration) 
+for the complete documentation!
 
 Commands
 ========
@@ -62,6 +64,13 @@ DROP TABLE `countries`;
 :: Affected rows: 0
 Finished running 20120326212655_create_table_countries.sql.
 </code></pre>
+
+
+Contribution
+===========
+
+Updates and improvements are more than welcome!
+
 
 
 Copyright (C) 2012 travelplanet24 S.A.
