@@ -10,7 +10,9 @@ the production machines next time you deploy. [by rubyonrails.org](http://guides
 Getting started & Documentation
 ===========
 
-This is a tool, which we, PHP developers, use to migrate MySQL databases. 
+It's a tool, a PHP library based on Zend Framework, which could be used in your application to migrate your database.
+It works with MySQL out of the box, but not limited to it.
+
 The idea was borrowed from the migration system built into Ruby on Rails. 
 
 Newest Zend Framework version (1.11.11) is used as the example application, but lower versions should work as well.
